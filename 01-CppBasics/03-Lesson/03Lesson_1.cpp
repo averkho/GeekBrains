@@ -13,10 +13,10 @@ float calculation(int a, int b, int c, int d){
 
 int main(){
 
-    int a=10;
-    int b=20;
-    int c=20;
-    int d=3;
+    int a = 10;
+    int b = 20;
+    int c = 20;
+    int d = 3;
 
     std::cout << calculation(a,b,c,d) << std::endl;
 
